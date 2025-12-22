@@ -1,9 +1,9 @@
-# 🏎️ Repuestos Calogero - E-commerce Catalog
+# 🏎️ Calogero Repuestos - E-commerce Catalog
 
-¡Bienvenido al repositorio de la nueva plataforma digital para **LC Frenos / Repuestos Calogero**! Este proyecto nació de la necesidad de modernizar la presencia online de un negocio familiar, pasando de una web estática a una aplicación de alto rendimiento.
+¡Bienvenido al repositorio de la nueva plataforma digital para **Calogero Repuestos**! Este proyecto nació de la necesidad de modernizar la presencia online de un negocio familiar, pasando de una web estática a una aplicación de alto rendimiento.
 
 ## 🚀 Demo en Vivo
-Puedes ver el proyecto funcionando aquí: [calogerorepuestos.netlify.app]
+Puedes ver el proyecto funcionando aquí: [(https://calogerorepuestos.netlify.app/)]
 
 ## 🛠️ Tecnologías Utilizadas
 * **Framework:** Next.js 14/15 (App Router)
