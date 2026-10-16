@@ -159,11 +159,11 @@ export const productos: Producto[] = [
     id: 14,
     name: "Pulmón de Freno",
     category: "FRENOS",
-    description: "Pulmón de freno Spring Brake 24/30 TKL. Para camiones, alta resistencia.",
+    description: "Pulmón de freno Spring Brake 30/30 TKL. Para camiones, alta resistencia.",
     image: "/Fotosdeproductos/pulmon.png",
     link: "-",
     priceDirect: 55000,
-    priceML: 0,
+    priceML: 79900,
     available: true
   },
   {
